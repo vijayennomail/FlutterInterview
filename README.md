@@ -1,6 +1,6 @@
 # Flutter Interview Practicle Task
 
-### Welcome to Swifterviewing, the repo with surprisingly little in it
+### Welcome to Flutter Interview Practicle Task Repo, the repo with surprisingly little in it
 
 If you're applying for an Flutter development position at Ennovations Tech Serv then this is the repo for you!
 
