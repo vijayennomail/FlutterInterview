@@ -26,7 +26,7 @@ SCREEN 3:
 
 ADDITIONAL REQUIREMENT :
 - Provide 10 % Discount on Grand Total and Display On Cart Screen Above Grand Total
-- Provide COupon Code Option for User
+- Provide Coupon Code Option to User
 - If User add "10PER" Coupon code, Provide Additional 5% Discount on Grand Total (In this case the total discount will be 15%)    
 
 
