@@ -12,7 +12,7 @@ BUSINESS REQUIREMENTS:
 SCREEN 1:
 
 - Desing Login Screen Which Contains Email and Password Field and Login Button
-- Email and password validations should be appilied and User will login only login if email = "flutter@ennovations.com" and password = "Flutter@1122021"
+- Email and password validations should be appilied and User will only login if email = "flutter@ennovations.com" and password = "Flutter@1122021"
 
 SCREEN 2:
 - Design Product List UI and Implement given product list API
