@@ -1,4 +1,4 @@
-# FlutterInterview
+# Flutter Interview Practicle Task
 
 ### Welcome to Swifterviewing, the repo with surprisingly little in it
 
