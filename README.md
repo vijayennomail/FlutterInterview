@@ -24,7 +24,7 @@ SCREEN 3:
 - Design Cart Screen Where Display all the Cart Items 
 
 
-ADDITIONAL REQUIREMENT
+ADDITIONAL REQUIREMENT :
 - Provide 10 % Discount on Grand Total and Display On Cart Screen Above Grand Total
 - Provide COupon Code Option for User
 - If User add "10PER" Coupon code, Provide Additional 5% Discount on Grand Total (In this case the total discount will be 15%)    
